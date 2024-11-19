@@ -1,0 +1,49 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "firstName": "Nilesh",
+      "middleName": "Kishor",
+      "lastName": "Patle",
+      "dob": "1990-01-01",
+      "email": "nilesh@example.com",
+      "mobile": "1234567890"
+    },
+    {
+      "id": "392b",
+      "firstName": "rohit",
+      "lastName": "raha",
+      "email": "thakre@gmail.com",
+      "dob": "2024-11-05",
+      "middleName": "h",
+      "mobile": "5896321470"
+    },
+    {
+      "id": "cba8",
+      "firstName": "Mohim",
+      "middleName": "h",
+      "lastName": "Thakre",
+      "dob": "2024-11-14",
+      "email": "thakre@gmail.com",
+      "mobile": "1478963250"
+    },
+    {
+      "id": "0f0b",
+      "firstName": "bharti",
+      "middleName": "u",
+      "lastName": "Katre",
+      "dob": "2024-11-13",
+      "email": "bharti@gmail.com",
+      "mobile": "2369851470"
+    },
+    {
+      "id": "c9f4",
+      "firstName": "jaynt",
+      "middleName": "m",
+      "lastName": "sir",
+      "dob": "2024-12-10",
+      "email": "jayant@gmail",
+      "mobile": "9874563210"
+    }
+  ]
+}

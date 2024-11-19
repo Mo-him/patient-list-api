@@ -1,0 +1,56 @@
+
+
+.App h1{
+    margin-left: 40%;
+}
+
+table{
+    border-radius: 1.2rem;
+    border: 1rem hidden #443c68;
+    box-shadow: 0 0 0 1px black;
+    overflow: hidden;
+    max-width: 80%;
+}
+
+li, p, a, td{
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+
+thead{
+    font-size: 1.8rem;
+    background-color: #443c68;
+    color: #fff;
+}
+
+th, td{
+    border: 1px solid #443c68;
+    min-width: 19rem;
+    padding: 1.5rem;
+    line-height: 1.4rem;
+}
+
+
+
+
+form{
+    border: 1px solid black;
+    margin: 20px;
+    width: 20%;
+    padding: 30px;
+}
+form>div{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+button{
+    color: darkgoldenrod;
+    width: 60%;
+    padding: 2%;
+    font-size: 25px;
+    border-radius: 8px;
+    background-color: burlywood;
+}
